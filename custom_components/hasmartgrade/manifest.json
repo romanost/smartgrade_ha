@@ -2,7 +2,7 @@
   "domain": "hasmartgrade",
   "name": "Smart Grade",
   "version": "0.0.1",
-  "documentation": "https://www.home-assistant.io/integrations/hasmartgrade",
+  "documentation": "https://github.com/romanost/smartgrade_ha",
   "codeowners": [
     "@romanost"
   ],
